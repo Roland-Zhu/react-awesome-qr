@@ -1,12 +1,12 @@
 {
   "name": "react-awesome-qr",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "license": "MIT",
-  "author": "Binaryify",
-  "homepage": "https://github.com/Binaryify/react-awesome-qr#readme",
+  "author": "Roland-Zhu",
+  "homepage": "https://github.com/Roland-Zhu/react-awesome-qr",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Binaryify/react-awesome-qr.git"
+    "url": "https://github.com/Roland-Zhu/react-awesome-qr.git"
   },
   "main": "dist/react-awesome-qr.js",
   "private": false,

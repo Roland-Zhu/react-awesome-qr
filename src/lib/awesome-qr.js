@@ -1235,7 +1235,8 @@ var Drawing = (function() {
     }
 
     // Draw POSITION protectors
-    var protectorStyle = _htOption.colorLight;
+    // var protectorStyle = _htOption.colorLight;
+    var protectorStyle = "rgba(255, 255, 255, 0.6)";
     _oContext.fillStyle = protectorStyle;
     _oContext.fillRect(0, 0, 8 * nSize, 8 * nSize);
     _oContext.fillRect(0, (nCount - 8) * nSize, 8 * nSize, 8 * nSize);
